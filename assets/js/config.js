@@ -6,5 +6,5 @@
  */
 window.KOHARU_CONFIG = {
   LINE_ID: '@802vforw',
-  FORM_ENDPOINT: ''
+  FORM_ENDPOINT: 'https://script.google.com/macros/s/AKfycbwehgRLRgql0NUUxhWPOLF2KO8gd4Xvyd0KA5UKb9EugorPCRkvzNphgvAuoQWrFxNg/exec'
 };
